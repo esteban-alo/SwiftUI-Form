@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  SwiftUI-Form
+
+  Created by Esteban Rodríguez Alonso on 11/04/20.
+  Copyright © 2020 Esteban Rodríguez Alonso. All rights reserved.
+*/
+
+"About_Text" = "Una simple aplicacion en SwiftUI";
+"App_Title" = "Formulario en SwiftUI";
+"App_SubTitle" = "Formulario de Ejemplo";
+"Button_About" = "Acerca";
+"Button_Help" = "Ayuda";
+"Button_Cancel" = "Cancelar";
+"Button_Ok" = "Aceptar";
+"Form_Title" = "Ingrese la informacion";
+"Form_Name" = "Nombre";
+"Form_BirthDate" = "Fecha de nacimiento";
+"Greet_Text %@" = "Hola  %@";
+"Help_Text" = "Para mayor información consulte la web del desarrollador";
+"Help_Url" = "";

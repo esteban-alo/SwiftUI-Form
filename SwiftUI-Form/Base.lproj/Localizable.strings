@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  SwiftUI-Test
+
+  Created by Esteban Rodríguez Alonso on 11/04/20.
+  Copyright © 2020 Esteban Rodríguez Alonso. All rights reserved.
+*/
+
+"About_Text" = "Simple App with SwiftUI";
+"App_Title" = "SwiftUI Form";
+"App_SubTitle" = "Example Form";
+"Button_About" = "About";
+"Button_Help" = "Help";
+"Button_Cancel" = "Cancel";
+"Button_Ok" = "Ok";
+"Form_Title" = "Fill the information";
+"Form_Name" = "Name";
+"Form_BirthDate" = "Birth Date";
+"Greet_Text" = "Hello  %@";
+"Help_Text" = "For more help go to the developer site";
+"Help_Url" = "";
